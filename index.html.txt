@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Apoyo Escolar | Profa. Mara</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            text-align: center;
+            padding: 30px 15px;
+        }
+        section {
+            max-width: 900px;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #4a90e2;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 6px 0;
+        }
+        .horario {
+            background: #eef4ff;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .contacto {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .boton {
+            display: inline-block;
+            background: #25d366;
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            color: #555;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Apoyo Escolar y Refuerzo Académico</h1>
+    <p>Atención personalizada para niños de preescolar y primaria</p>
+</header>
+
+<section>
+    <h2>PREESCOLAR (4 y 5 años)</h2>
+    <ul>
+        <li>✨ Psicomotricidad fina</li>
+        <li>✨ Iniciación en lectoescritura</li>
+        <li>✨ Pensamiento matemático</li>
+        <li>✨ Apoyo en tareas</li>
+    </ul>
+</section>
+
+<section>
+    <h2>PRIMARIA (6 y 7 años)</h2>
+    <ul>
+        <li>✨ Ortografía</li>
+        <li>✨ Escritura</li>
+        <li>✨ Lectura</li>
+        <li>✨ Operaciones básicas (+ −)</li>
+        <li>✨ Reforzamiento de tablas de multiplicar (×)</li>
+    </ul>
+</section>
+
+<section class="horario">
+    📅 Martes y Jueves <br>
+    ⏰ 4:30 p.m. a 6:00 p.m.
+</section>
+
+<section class="contacto">
+    <h2>Contacto</h2>
+    <p><strong>Profa. Mara</strong></p>
+    <a class="boton" href="https://wa.me/525564702272" target="_blank">
+        Contactar por WhatsApp
+    </a>
+</section>
+
+<footer>
+    © 2026 · Apoyo Escolar · Profa. Mara
+</footer>
+
+</body>
+</html>
